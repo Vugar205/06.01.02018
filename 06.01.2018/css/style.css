@@ -1,0 +1,84 @@
+body{
+	margin:0px;
+}
+.green{
+	background:green;
+}
+.red{
+	background:red;
+}
+.blue{
+	background:blue;
+}
+.heading{
+	margin:0px;
+	font-size:1.2em;
+	padding:10px;
+
+}
+.inline-block{
+	margin-right:-3.1px;
+	margin-bottom:-3.1px;
+}
+.full-width{
+	width:100%;
+}
+.mainWrapper{
+	width:1000px;
+	margin:0px auto;
+}
+
+/* Top menu section styles*/
+
+.topMenu{
+	height:50px;
+
+}
+
+/* Navigation  section styles*/
+
+.nav{
+	height:75px;
+
+}
+
+/* Slider section styles*/
+
+.slider{
+
+	
+}
+
+.sliderItems{
+	width:calc(70% - 22.2px);
+	height:250px;
+	display: inline-block;
+	padding:10px;
+
+}
+
+.sliderAds{
+	width:calc(30% - 22.2px);
+	height:250px;
+	display: inline-block;
+	padding:10px;
+}
+
+/* Content section styles*/
+
+.content{
+	height:550px;
+
+}
+.contentRow{
+margin:20px 0px;
+}
+.contentColumn{
+	margin:0px 10px;
+	height:150px;
+	display: inline-block;
+	margin-right:-3.1px;
+	width:calc(33.333% - 13.8px);
+}
+
+

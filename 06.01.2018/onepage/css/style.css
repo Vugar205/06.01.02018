@@ -1,0 +1,64 @@
+.green{
+	background:green;
+}
+.red{
+	background:red;
+}
+.blue{
+	background:blue;
+}
+.lightgray{
+	background:lightgray;
+}
+.sectionPadding{
+	padding:30px 0px;
+}
+.fullBox{
+	width:100%;
+}
+.normalBox{
+	width:900px;
+	margin:0px auto;
+	text-align:center;
+}
+.sectionHeading{
+	text-transform: uppercase;
+	padding:15px 0px;
+	border-bottom:1px solid aqua;
+	font-family: Calibri;
+
+}
+.inline-block{
+	margin-right:-3.1px;
+	margin-bottom:-3.1px;
+}
+.row{
+
+}
+.column{
+	width:calc(33.33% - 13.8px);
+	margin:10px;
+	display: inline-block;
+	margin-right:-3.1px;
+	margin-bottom:-3.1px;
+
+}
+.column img{
+	width:100%;
+}
+
+
+body{
+	margin:0;
+}
+#home{
+	
+}
+
+#works{
+
+}
+
+#team{
+
+}
